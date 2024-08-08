@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a96a7ef-3ccc-4fdc-90b0-152195882e2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ M3_1Bases_de_datos_NoSQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deleteNoSQLDeleteRecord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getNoSQLOneRecord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postNoSQLNewRecord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/putNoSQLUpdateRecord.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2kNrrZIps7k38cmyGrFxudahrXc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.M3_1Bases_de_datos_NoSQL.executor": "Run",
+    "Python.deleteNoSQLDeleteRecord.executor": "Run",
+    "Python.getNoSQLOneRecord.executor": "Run",
+    "Python.postNoSQLNewRecord.executor": "Run",
+    "Python.putNoSQLUpdateRecord.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/codigos/ M3_1Bases_de_datos_NoSQL",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18968.29" />
+        <option value="bundled-python-sdk-f5635417b835-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18968.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a96a7ef-3ccc-4fdc-90b0-152195882e2f" name="Changes" comment="" />
+      <created>1723135077627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723135077627</updated>
+      <workItem from="1723135091495" duration="2347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/_M3_1Bases_de_datos_NoSQL$putNoSQLUpdateRecord.coverage" NAME="putNoSQLUpdateRecord Coverage Results" MODIFIED="1723138989003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_M3_1Bases_de_datos_NoSQL$M3_1Bases_de_datos_NoSQL.coverage" NAME="M3_1Bases_de_datos_NoSQL Coverage Results" MODIFIED="1723135706769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/_M3_1Bases_de_datos_NoSQL$postNoSQLNewRecord.coverage" NAME="postNoSQLNewRecord Coverage Results" MODIFIED="1723136534820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_M3_1Bases_de_datos_NoSQL$deleteNoSQLDeleteRecord.coverage" NAME="deleteNoSQLDeleteRecord Coverage Results" MODIFIED="1723139087173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_M3_1Bases_de_datos_NoSQL$getNoSQLOneRecord.coverage" NAME="getNoSQLOneRecord Coverage Results" MODIFIED="1723136430006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
