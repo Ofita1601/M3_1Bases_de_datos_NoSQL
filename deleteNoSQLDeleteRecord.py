@@ -1,4 +1,4 @@
-import requests
+ import requests
 
 # URL de la API y ID del registro a eliminar
 url = "https://66b4e5429f9169621ea4c32c.mockapi.io/api/v1/contactos"
